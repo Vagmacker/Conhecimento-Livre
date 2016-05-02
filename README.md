@@ -15,6 +15,7 @@ Quem busca o conhecimento e o acha, obterá dois prêmios: um por procurá-lo, e
 ### Programação
 #### Android
 [Dominando o Android do Básico ao Avançado - Nelson Glauber](https://cloud.mail.ru/public/D6zB/9oczG7Xwd) | **75.4MB** | **PDF**
+
 [Manual do Indie Game Developer - Versão Android e iOS](https://cloud.mail.ru/public/4VpM/BdUZSB8qQ) | **6.8MB** | **PDF**
 
 ## Cursos (Vídeo Aulas) :clapper:
