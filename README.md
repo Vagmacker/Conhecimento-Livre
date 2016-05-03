@@ -2,15 +2,23 @@
 Quem busca o conhecimento e o acha, obterá dois prêmios: um por procurá-lo, e outro por achá-lo. Se não o encontrar, ainda restará o primeiro prêmio.
 
 ## Livros  :books:
+
 ### Engenharia de Software
 [Engenharia Software Pressman PT](https://mega.nz/#F!yV8zTIQT!cthkqa0OrutTw6SGgTw9Jg) | **40.8 MB** | **PDF**
 
+
+
 ### Sistemas Operacionais
+
 #### Geral
 [Arquitetura de Sistemas Operacionais](https://mega.nz/#F!XIcQmaxJ!NDR0pH8764ree5Y1FngTPw) | **27.1 MB** | **PDF**
 
+
+
 ### Linux :penguin:
 [A Computacao pessoal e o Sistema operacional Linux](https://mega.nz/#F!WUUwmJjQ!SSqFB0guH9QSHJh_VFcIyA) | **8.1 MB** | **PDF**
+
+
 
 ### Programação
 
@@ -18,6 +26,7 @@ Quem busca o conhecimento e o acha, obterá dois prêmios: um por procurá-lo, e
 [Dominando o Android do Básico ao Avançado - Nelson Glauber](https://cloud.mail.ru/public/D6zB/9oczG7Xwd) | **75.4 MB** | **PDF**
 
 [Manual do Indie Game Developer - Versão Android e iOS](https://cloud.mail.ru/public/4VpM/BdUZSB8qQ) | **6.8 MB** | **PDF**
+
 
 
 #### AngularJS(FramWork)
@@ -44,6 +53,26 @@ Quem busca o conhecimento e o acha, obterá dois prêmios: um por procurá-lo, e
 [Pro AngularJS](https://cloud.mail.ru/public/FKXJ/keBSxDWkA) | **11.7 MB** | **PDF** | :us:
 
 [Responsive Web Design with AngularJS](https://cloud.mail.ru/public/EHCf/9redKrMos) | **2.33 MB** | **PDF** | :us:
+
+
+
+### Hacking
+
+#### Anonimato
+[Anonimato na Internet](https://cloud.mail.ru/public/KmCv/S8npjSr5T) | **763 KB** | **PDF**
+
+[Aula de seguranca](https://cloud.mail.ru/public/2pE4/uck2nhbBo) | **154 KB** | **PDF**
+
+[Cartilha de Segurança](https://cloud.mail.ru/public/H9ko/wyFdqhgQk) | **12 MB** | **PDF**
+
+[Proteção da Privacidade de dados em Nuvem](https://cloud.mail.ru/public/4c1N/Nm3Fqb8WK) | **284 KB** | **PDF**
+
+[Segurança e Privacidade na Clound Computing](https://cloud.mail.ru/public/ABZq/vyeCtxX3Z) | **375 KB** | **PDF**
+
+[Tutorial_de Privacidade](https://cloud.mail.ru/public/N8vL/eJDrKjqGX) | **375 KB** | **PDF**
+
+
+
 
 
 ## Cursos (Vídeo Aulas) :clapper:
