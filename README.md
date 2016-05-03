@@ -56,6 +56,11 @@ Quem busca o conhecimento e o acha, obterá dois prêmios: um por procurá-lo, e
 
 
 
+#### ASP
+[Criando sites dinamicos com ASP 3.0 - Julio Battisti](https://cloud.mail.ru/public/Hpax/e17hPrLVf) | **5.01 MB** | **PDF** | :us:
+
+
+
 ### Hacking
 
 #### Anonimato
@@ -69,7 +74,7 @@ Quem busca o conhecimento e o acha, obterá dois prêmios: um por procurá-lo, e
 
 [Segurança e Privacidade na Clound Computing](https://cloud.mail.ru/public/ABZq/vyeCtxX3Z) | **375 KB** | **PDF**
 
-[Tutorial_de Privacidade](https://cloud.mail.ru/public/N8vL/eJDrKjqGX) | **375 KB** | **PDF**
+[Tutorial de Privacidade](https://cloud.mail.ru/public/N8vL/eJDrKjqGX) | **375 KB** | **PDF**
 
 
 
