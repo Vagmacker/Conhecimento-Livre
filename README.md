@@ -6,6 +6,7 @@ Quem busca o conhecimento e o acha, obterá dois prêmios: um por procurá-lo, e
 ### Engenharia de Software
 [Engenharia Software Pressman PT](https://mega.nz/#F!yV8zTIQT!cthkqa0OrutTw6SGgTw9Jg) | **40.8 MB** | **PDF**
 
+<hr />
 
 
 ### Sistemas Operacionais
@@ -13,12 +14,13 @@ Quem busca o conhecimento e o acha, obterá dois prêmios: um por procurá-lo, e
 #### Geral
 [Arquitetura de Sistemas Operacionais](https://mega.nz/#F!XIcQmaxJ!NDR0pH8764ree5Y1FngTPw) | **27.1 MB** | **PDF**
 
+<hr>
 
 
 ### Linux :penguin:
 [A Computacao pessoal e o Sistema operacional Linux](https://mega.nz/#F!WUUwmJjQ!SSqFB0guH9QSHJh_VFcIyA) | **8.1 MB** | **PDF**
 
-
+<hr />
 
 ### Programação
 
@@ -26,7 +28,6 @@ Quem busca o conhecimento e o acha, obterá dois prêmios: um por procurá-lo, e
 [Dominando o Android do Básico ao Avançado - Nelson Glauber](https://cloud.mail.ru/public/D6zB/9oczG7Xwd) | **75.4 MB** | **PDF**
 
 [Manual do Indie Game Developer - Versão Android e iOS](https://cloud.mail.ru/public/4VpM/BdUZSB8qQ) | **6.8 MB** | **PDF**
-
 
 
 #### AngularJS(FramWork)
@@ -55,10 +56,28 @@ Quem busca o conhecimento e o acha, obterá dois prêmios: um por procurá-lo, e
 [Responsive Web Design with AngularJS](https://cloud.mail.ru/public/EHCf/9redKrMos) | **2.33 MB** | **PDF** | :us:
 
 
-
 #### ASP
 [Criando sites dinamicos com ASP 3.0 - Julio Battisti](https://cloud.mail.ru/public/Hpax/e17hPrLVf) | **5.01 MB** | **PDF** | :us:
 
+
+#### ASSEMBLY
+[ARM Assembly Language Fundamentals and Techniques, Second Edition](https://cloud.mail.ru/public/MQqF/nb2CqbAoW) | **3.95 MB** | **PDF** | :us:
+[ARM Assembly Language with Hardware Experiments](https://cloud.mail.ru/public/5r7v/uETyQecFJ) | **14.1 MB** | **PDF** | :us:
+[Art Of Intel x86 Assembly](https://cloud.mail.ru/public/HD2L/1BY24SFJt) | **4.28 MB** | **PDF** | :us:
+[Assembly Language for x86 Processors, 7th Edition](https://cloud.mail.ru/public/J1XQ/sxC3hQX9v) | **11.5 MB** | **PDF** | :us:
+[Assembly Language For x86 Processors](https://cloud.mail.ru/public/9JB1/a82DgkgRB) | **2.68 MB** | **PDF** | :us:
+[Assembly Language Prog DOC](https://cloud.mail.ru/public/EUGy/5Y62NpR9t) | **831 KB** | **PDF** | :us:
+[AT＆T Assembly Language](https://cloud.mail.ru/public/7gtr/Bd8omNngs) | **6.61 MB** | **PDF** | :us:
+[Disassembling Code IDA Pro and SoftICE](https://cloud.mail.ru/public/AiMe/5tcuvcR1m) | **3.45 MB** | **PDF** | :us:
+
+[Assembler - 8088](https://cloud.mail.ru/public/EtpA/mxgVcz5ro) | **118 KB** | **PDF**
+[Assembly para Iniciantes](https://cloud.mail.ru/public/KJMG/WYep54HHh) | **68.4 KB** | **PDF**
+[assembly-1](https://cloud.mail.ru/public/4jxE/BfgAKGNLd) | **754 KB** | **PDF**
+[assembly_iniciantes](https://cloud.mail.ru/public/7YX4/dy7qcq2fj) | **1.17 MB** | **PDF**
+[assemblyy](https://cloud.mail.ru/public/A16h/rtHnAQrAE) | **217 KB** | **PDF**
+[Exemplos de Programas Assembly](https://cloud.mail.ru/public/8pBe/smNtzRr8H) | **132 KB** | **PDF**
+[NASM](https://cloud.mail.ru/public/7MAX/T4df1WV7L) | **120 KB** | **PDF**
+[Tutorial Assembly](https://cloud.mail.ru/public/3WJS/XqQt7iBdN) | **136 MB** | **PDF**
 
 
 ### Hacking
@@ -75,9 +94,6 @@ Quem busca o conhecimento e o acha, obterá dois prêmios: um por procurá-lo, e
 [Segurança e Privacidade na Clound Computing](https://cloud.mail.ru/public/ABZq/vyeCtxX3Z) | **375 KB** | **PDF**
 
 [Tutorial de Privacidade](https://cloud.mail.ru/public/N8vL/eJDrKjqGX) | **375 KB** | **PDF**
-
-
-
 
 
 ## Cursos (Vídeo Aulas) :clapper:
